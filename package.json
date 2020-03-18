@@ -1,0 +1,15 @@
+{
+  "name": "herokubot",
+  "version": "1.0.0",
+  "description": "test heroku",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilax666",
+  "license": "ISC"
+}
